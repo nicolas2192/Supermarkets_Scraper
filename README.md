@@ -7,7 +7,7 @@ Get ready to get your mind blown with these and more Mercadona related questions
 ## :hamburger: Why Mercadona?
 
 <p align="center">
-  <img width="1380" height="170" src="reporting/images/mercadona-logo.png">
+  <img width="864" height="196" src="reporting/images/mercadona-logo.png">
 </p>
 
 This Spanish commerce is one of the biggest supermarkets operating in Spain. Founded in 1977, it began as a small butcher in Valencia. 
