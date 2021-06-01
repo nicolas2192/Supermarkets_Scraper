@@ -1,3 +1,13 @@
+# My stuff
+bin/chromedriver
+data/*
+!data/Mercadona_2021-01-09.csv
+!data/Mercadona_2021-03-06.csv
+!data/Mercadona_2021-06-01.csv
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
